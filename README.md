@@ -41,8 +41,7 @@ A modern, responsive front-end website built using **HTML** and **Tailwind CSS**
 ## Installation & Usage
 
 1. Clone the repository:
-   ```bash
-  https://github.com/Kashish-Surana/Prompt-Engineering-Assignment
+   ```bash https://github.com/Kashish-Surana/Prompt-Engineering-Assignment
 Open index.html in your browser.
 
 For development, you can serve locally using VS Code Live Server or any local server.
